@@ -1,7 +1,7 @@
 module.exports = {
   title: "原神同人文",
   description: '驚かないで、未来が期待できるから .',
-  base:'/Zhongli-s-storyv2/'
+  base:'/Zhongli-s-storyv2/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
